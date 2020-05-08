@@ -1,1 +1,4 @@
 # zozonoza
+
+## install
+    npm install

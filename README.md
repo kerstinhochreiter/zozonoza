@@ -3,7 +3,7 @@
 ## install
     npm install
 
-## plugins
+## grunt-plugins
 
 - sass
 - cssmin
